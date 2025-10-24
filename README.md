@@ -142,8 +142,8 @@ Before introducing Grafana, an initial **MQTT-based Web Dashboard** was built us
 
 ## 📅 Internship Details
 
-- **Title:** Industry Proactive Maintenance System Using Sensor Data Monitoring and Cloud Forecasting
-- **Duration:** June 2025 – July 2025
+- **Title:** *Industry Proactive Maintenance System Using Sensor Data Monitoring and Cloud Forecasting*
+- **Duration:** *June 2025 – July 2025*
 - **Team Size:** 5
-- **My Role:** Temperature Monitoring & Grafana–InfluxDB Developer
-- **Organization:** Sanleva Prime Solutions
+- **My Role:** *Temperature Monitoring & Grafana–InfluxDB Developer*
+- **Organization:** *Sanleva Prime Solutions*
