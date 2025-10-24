@@ -91,22 +91,22 @@ This addition allowed **real-time visualization, historical trend analysis, and 
 
 ### 🗄️ Data Flow
 ```
-[Industrial Machine]
-      │
-[ESP32-C6 Sensor Nodes]
+     [Industrial Machine]
+              │
+    [ESP32-C6 Sensor Nodes]
 (MAX6675 / MPU6050 / PZEM-004T / A3144)
-      │
-   ESP-NOW
-      │
-[Gateway ESP32-C6]
-      │
-  MQTT Broker
-      │
-┌─────────────┬───────────────┐
-│   Grafana   │   Web Dashboard│
-│(Visualization)| (Real-time UI)│
-└─────────────┴───────────────┘
-      │
+              │
+           ESP-NOW
+              │
+      [Gateway ESP32-C6]
+              │
+          MQTT Broker
+              │
+┌───────────────┬────────────────┐
+│    Grafana    │  Web Dashboard │
+│(Visualization)| (Real-time UI) │
+└───────────────┴────────────────┘
+              │
 InfluxDB (Historical Storage)
 ```
 
